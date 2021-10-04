@@ -4,6 +4,7 @@
 **Group Members:** 
 Abigail Holloway, hollowayab21@students.ecu.edu
 Nicholas Everette, everetten17@students.ecu.edu
+Michael Trofimov, trofimovm19@students.ecu.edu
 
 This README file will walk you through how to run our Homework 3 Jupyter notebook, which runs two linear regression exercises.
 
